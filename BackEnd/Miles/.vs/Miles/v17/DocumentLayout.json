@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\views\\car\\sell.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\views\\car\\sell.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\views\\car\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\views\\car\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285A09A-B585-4230-B37F-BE9986E33250}|Miles.Core\\Miles.Core.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.core\\entities\\associate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B285A09A-B585-4230-B37F-BE9986E33250}|Miles.Core\\Miles.Core.csproj|solutionrelative:miles.core\\entities\\associate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B285A09A-B585-4230-B37F-BE9986E33250}|Miles.Core\\Miles.Core.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.core\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B285A09A-B585-4230-B37F-BE9986E33250}|Miles.Core\\Miles.Core.csproj|solutionrelative:miles.core\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37483A7-D283-44DA-8404-4428559CD1C5}|Miles.Service\\Miles.Service.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.service\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37483A7-D283-44DA-8404-4428559CD1C5}|Miles.Service\\Miles.Service.csproj|solutionrelative:miles.service\\services\\implementations\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37483A7-D283-44DA-8404-4428559CD1C5}|Miles.Service\\Miles.Service.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.service\\services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37483A7-D283-44DA-8404-4428559CD1C5}|Miles.Service\\Miles.Service.csproj|solutionrelative:miles.service\\services\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\areas\\admin\\controllers\\aboutskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\areas\\admin\\controllers\\aboutskillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDBAC440-77B7-4C51-AB81-3E7841CD9008}|Miles.App\\Miles.App.csproj|solutionrelative:miles.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37483A7-D283-44DA-8404-4428559CD1C5}|Miles.Service\\Miles.Service.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.service\\extensions\\uploadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37483A7-D283-44DA-8404-4428559CD1C5}|Miles.Service\\Miles.Service.csproj|solutionrelative:miles.service\\extensions\\uploadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BAC10-06CF-424A-BF50-D343D714CDD7}|Miles.Data\\Miles.Data.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.data\\migrations\\20240518064044_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1BAC10-06CF-424A-BF50-D343D714CDD7}|Miles.Data\\Miles.Data.csproj|solutionrelative:miles.data\\migrations\\20240518064044_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BAC10-06CF-424A-BF50-D343D714CDD7}|Miles.Data\\Miles.Data.csproj|c:\\users\\aaykh\\onedrive\\desktop\\finalproject-main\\backend\\miles\\miles.data\\migrations\\20240518061834_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1BAC10-06CF-424A-BF50-D343D714CDD7}|Miles.Data\\Miles.Data.csproj|solutionrelative:miles.data\\migrations\\20240518061834_mig1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Miles.App\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAqwD0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:52:44.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Miles.App\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:33:53.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Miles.App\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:49:04.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Miles.App\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwEYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:37:21.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Miles.App\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAiwIAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:49:05.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Miles.App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:12:29.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sell.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Views\\Car\\Sell.cshtml",
+              "RelativeDocumentMoniker": "Miles.App\\Views\\Car\\Sell.cshtml",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Views\\Car\\Sell.cshtml",
+              "RelativeToolTip": "Miles.App\\Views\\Car\\Sell.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:02:45.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Views\\Car\\Update.cshtml",
+              "RelativeDocumentMoniker": "Miles.App\\Views\\Car\\Update.cshtml",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Views\\Car\\Update.cshtml",
+              "RelativeToolTip": "Miles.App\\Views\\Car\\Update.cshtml",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T06:02:46.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Associate.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Core\\Entities\\Associate.cs",
+              "RelativeDocumentMoniker": "Miles.Core\\Entities\\Associate.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Core\\Entities\\Associate.cs",
+              "RelativeToolTip": "Miles.Core\\Entities\\Associate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:01:27.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Core\\Entities\\Auction.cs",
+              "RelativeDocumentMoniker": "Miles.Core\\Entities\\Auction.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Core\\Entities\\Auction.cs",
+              "RelativeToolTip": "Miles.Core\\Entities\\Auction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T06:01:26.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Miles.App\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAJEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T18:37:21.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Miles.App\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAOsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:45:00.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Miles.App\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:03:55.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\appsettings.json",
+              "RelativeDocumentMoniker": "Miles.App\\appsettings.json",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\appsettings.json",
+              "RelativeToolTip": "Miles.App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T03:27:12.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AboutSkillController.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Areas\\Admin\\Controllers\\AboutSkillController.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Areas\\Admin\\Controllers\\AboutSkillController.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Areas\\Admin\\Controllers\\AboutSkillController.cs",
+              "RelativeToolTip": "Miles.App\\Areas\\Admin\\Controllers\\AboutSkillController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:46:31.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EMailService.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Service\\Services\\Implementations\\EMailService.cs",
+              "RelativeDocumentMoniker": "Miles.Service\\Services\\Implementations\\EMailService.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Service\\Services\\Implementations\\EMailService.cs",
+              "RelativeToolTip": "Miles.Service\\Services\\Implementations\\EMailService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwCoAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:27:12.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Service\\Services\\Implementations\\CarService.cs",
+              "RelativeDocumentMoniker": "Miles.Service\\Services\\Implementations\\CarService.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Service\\Services\\Implementations\\CarService.cs",
+              "RelativeToolTip": "Miles.Service\\Services\\Implementations\\CarService.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAMwG4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T05:56:01.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240518061834_Mig1.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Data\\Migrations\\20240518061834_Mig1.cs",
+              "RelativeDocumentMoniker": "Miles.Data\\Migrations\\20240518061834_Mig1.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Data\\Migrations\\20240518061834_Mig1.cs",
+              "RelativeToolTip": "Miles.Data\\Migrations\\20240518061834_Mig1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:18:34.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240518064044_Mig2.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Data\\Migrations\\20240518064044_Mig2.cs",
+              "RelativeDocumentMoniker": "Miles.Data\\Migrations\\20240518064044_Mig2.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Data\\Migrations\\20240518064044_Mig2.cs",
+              "RelativeToolTip": "Miles.Data\\Migrations\\20240518064044_Mig2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T06:40:44.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Miles.App\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Miles.App\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAALgAAAAAAAAAAAAewMMAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T06:43:24.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Miles.App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Miles.App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAgwGcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T06:45:54.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Program.cs",
+              "RelativeDocumentMoniker": "Miles.App\\Program.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.App\\Program.cs",
+              "RelativeToolTip": "Miles.App\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:27:12.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UploadFile.cs",
+              "DocumentMoniker": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Service\\Extensions\\UploadFile.cs",
+              "RelativeDocumentMoniker": "Miles.Service\\Extensions\\UploadFile.cs",
+              "ToolTip": "C:\\Users\\aaykh\\OneDrive\\Desktop\\FinalProject-main\\BackEnd\\Miles\\Miles.Service\\Extensions\\UploadFile.cs",
+              "RelativeToolTip": "Miles.Service\\Extensions\\UploadFile.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T03:27:12.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

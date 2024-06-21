@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+      integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+      crossorigin="anonymous"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+
+    <link rel="stylesheet" href="../Scss/main.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="sidebar-menu-container">
+      <div class="sidebar-menu-push">
+        <div class="sidebar-menu-overlay"></div>
+        <div class="sidebar-menu-inner">
+          <div id="sub-header">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6 col-sm-12">
+                  <div class="social-icons">
+                    <ul>
+                      <li>
+                        <a class="facebook" href="#" target="_blank"
+                          ><i class="fab fa-facebook"></i
+                        ></a>
+                      </li>
+                      <li>
+                        <a class="twitter" href="#" target="_blank"
+                          ><i class="fab fa-twitter"></i
+                        ></a>
+                      </li>
+
+                      <li>
+                        <a class="linkedin" href="#" target="_blank"
+                          ><i class="fab fa-linkedin"></i
+                        ></a>
+                      </li>
+
+                      <li>
+                        <a class="linkedin" href="#" target="_blank"
+                          ><i class="fa fa-rss"></i
+                        ></a>
+                      </li>
+
+                      <li>
+                        <a class="youtube" href="#" target="_blank"
+                          ><i class="fab fa-youtube"></i
+                        ></a>
+                      </li>
+
+                      <li>
+                        <a class="dribbble" href="#" target="_blank"
+                          ><i class="fab fa-dribbble"></i
+                        ></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <div class="right-info hidden-sm">
+                    <ul>
+                      <li>Call us: <em>570-694-4002</em></li>
+                      <li>
+                        <a href="./login.html">Login</a>
+                      </li>
+                      <li>
+                        <a href="./register.html">Register</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="site-header" itemtype="http://schema.org/WPHeader">
+            <div id="main-header" class="main-header header-sticky">
+              <div class="inner-header container clearfix">
+                <div class="logo">
+                  <a href="http://demo.mypsolution.com/wp13/"
+                    ><img
+                      src="http://demo.mypsolution.com/wp13/wp-content/themes/auction/assets/images/logo_white.png"
+                      alt=""
+                  /></a>
+                </div>
+                <div class="header-right-toggle pull-right hidden-md hidden-lg">
+                  <a class="side-menu-button"><i class="fa fa-bars"></i></a>
+                </div>
+                <nav class="main-navigation text-left hidden-xs hidden-sm">
+                  <ul class="menu-nav">
+                    <li id="menu-item">
+                      <a href="../HTML/homepage.html">Home</a>
+                    </li>
+                    <li id="menu-item">
+                      <a href="../HTML/about.html">About Us</a>
+                    </li>
+                    <li id="menu-item">
+                      <a href="../HTML/service.html">Services</a>
+                    </li>
+                    <li id="menu-item" class="open">
+                      <a href="./shop.html">Shop </a>
+                    </li>
+                    <li id="menu-item">
+                      <a href="./blog.html">Blogs</a>
+                    </li>
+                    <li id="menu-item">
+                      <a href="./contact.html">Contact Us</a>
+                    </li>
+                    <li id="search-item">
+                      <p>
+                        <a href="#" class="showLink search-icon"
+                          ><i class="fa fa-search"></i
+                        ></a>
+                      </p>
+                      <div class="more example">
+                        <form method="get" class="blog-search">
+                          <input
+                            type="text"
+                            class="blog-search-field"
+                            placeholder="Type to search"
+                          />
+                        </form>
+                        <p>
+                          <a href="#" class="hideLink"
+                            ><i class="fa fa-close"></i
+                          ></a>
+                        </p>
+                      </div>
+                    </li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+          <div class="slider">
+            <img id="img-1" src="../Images/car.jpg" alt="Image 1" />
+            <img id="img-2" src="../Images/car1.jpg" alt="Image 2" />
+            <img id="img-3" src="../Images/car.jpg" alt="Image 3" />
+          </div>
+          <div class="navigation-button">
+            <span class="dot active" onclick="changeSlide(0)"></span>
+            <span class="dot" onclick="changeSlide(1)"></span>
+            <span class="dot" onclick="changeSlide(2)"></span>
+          </div>
+          <div id="page">
+            <div class="seeAll"></div>
+            <section class="see-row">
+              <div class="seeAll-container">
+                <div class="seeAll-columns">
+                  <div class="seeAll-column">
+                    <div class="base-container">
+                      <div class="container">
+                        <div class="row">
+                          <div class="col-md-12">
+                            <p>
+                              Owners of salvage-title vehicles will encounter
+                              some unique issues.
+                            </p>
+                            <div class="yellowButton">
+                              <a href=""
+                                >See All Cars
+                                <i class="fa fa-car"></i>
+                              </a>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="why-us section">
+              <div class="why-us-container kc-row-container kc-container">
+                <div class="why-us-columns kc-wrap-columns">
+                  <div class="why-us-column col-sm-12">
+                    <div class="kc-elm kc_row kc_row_inner">
+                      <div class="left-why-us">
+                        <div class="heading-left">
+                          <h2>Why choose us?</h2>
+                          <span
+                            >Vivamus gravida magna massa in cursus mi vehicula
+                            at. Nunc sem quam suscipit</span
+                          >
+                          <div class="line"></div>
+                        </div>
+                        <div class="service-left">
+                          <div class="col-md-6">
+                            <div class="service-item">
+                              <i class="fa fa-bar-chart-o"></i>
+                              <div class="service-head">
+                                <h2>Results of Drivers</h2>
+                              </div>
+                              <p>
+                                Integer nec posuere metus, at feugiat. Sed
+                                sodales venenat malesuada.
+                              </p>
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="service-item">
+                              <i class="fa fa-bar-chart-o"></i>
+                              <div class="service-head">
+                                <h2>Results of Drivers</h2>
+                              </div>
+                              <p>
+                                Integer nec posuere metus, at feugiat. Sed
+                                sodales venenat malesuada.
+                              </p>
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="service-item">
+                              <i class="fa fa-bar-chart-o"></i>
+                              <div class="service-head">
+                                <h2>Results of Drivers</h2>
+                              </div>
+                              <p>
+                                Integer nec posuere metus, at feugiat. Sed
+                                sodales venenat malesuada.
+                              </p>
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="service-item">
+                              <i class="fa fa-bar-chart-o"></i>
+                              <div class="service-head">
+                                <h2>Results of Drivers</h2>
+                              </div>
+                              <p>
+                                Integer nec posuere metus, at feugiat. Sed
+                                sodales venenat malesuada.
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="right-why-us kc_column_inner">
+                        <div class="kc_wrapper kc-col-inner-container">
+                          <div class="right-img">
+                            <img
+                              src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/feature-image.jpg"
+                              alt=""
+                            />
+                            <div class="img-bg"></div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="feature-listing section">
+              <div class="kc-row-container">
+                <div class="kc-wrap-columns">
+                  <div class="feature-column col-sm-12">
+                    <div>
+                      <div class="header">
+                        <h2>Featured Cars Listing</h2>
+                        <span>
+                          Vivamus gravida magna massa in cursus mi vehicula at.
+                          Nunc sem quam suscipit</span
+                        >
+                        <div class="dec">
+                          <i class="fa fa-car"></i>
+                        </div>
+                        <div class="line-dec"></div>
+                      </div>
+                      <div class="cars">
+                        <div class="cars-container">
+                          <div class="car-card col-md-15 col-sm-6">
+                            <a
+                              href="http://demo.mypsolution.com/wp13/product/mercedes-amg-6-3-15/"
+                              ><img
+                                src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg"
+                                class="attachment-shop_catalog size-shop_catalog wp-post-image"
+                                srcset="
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg         310w,
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured-300x203.jpg 300w
+                                "
+                                sizes="(max-width: 310px) 100vw, 310px"
+                            /></a>
+                            <div class="content">
+                              <span class="pricee">
+                                <span class="price">$52,000</span>
+                              </span>
+                              <a href="">
+                                <h2>MERCEDES AMG 6.3</h2>
+                              </a>
+                              <div class="line"></div>
+                              <div class="car-info">
+                                Selvage drinking vinegar roof party bitters
+                                beard wolf...
+                              </div>
+                              <div class="car-detail">
+                                <ul>
+                                  <li><i class="fas fa-gas-pump"></i>Diesel</li>
+                                  <li><i class="fa fa-car"></i>Sport</li>
+                                  <li><i class="fas fa-road"></i>13,000</li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="car-card col-md-15 col-sm-6">
+                            <a
+                              href="http://demo.mypsolution.com/wp13/product/mercedes-amg-6-3-15/"
+                              ><img
+                                src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg"
+                                class="attachment-shop_catalog size-shop_catalog wp-post-image"
+                                srcset="
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg         310w,
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured-300x203.jpg 300w
+                                "
+                                sizes="(max-width: 310px) 100vw, 310px"
+                            /></a>
+                            <div class="content">
+                              <span class="pricee">
+                                <span class="price">$52,000</span>
+                              </span>
+                              <a href="">
+                                <h2>MERCEDES AMG 6.3</h2>
+                              </a>
+                              <div class="line"></div>
+                              <div class="car-info">
+                                Selvage drinking vinegar roof party bitters
+                                beard wolf...
+                              </div>
+                              <div class="car-detail">
+                                <ul>
+                                  <li><i class="fas fa-gas-pump"></i>Diesel</li>
+                                  <li><i class="fa fa-car"></i>Sport</li>
+                                  <li><i class="fas fa-road"></i>13,000</li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="car-card col-md-15 col-sm-6">
+                            <a
+                              href="http://demo.mypsolution.com/wp13/product/mercedes-amg-6-3-15/"
+                              ><img
+                                src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg"
+                                class="attachment-shop_catalog size-shop_catalog wp-post-image"
+                                srcset="
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg         310w,
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured-300x203.jpg 300w
+                                "
+                                sizes="(max-width: 310px) 100vw, 310px"
+                            /></a>
+                            <div class="content">
+                              <span class="pricee">
+                                <span class="price">$52,000</span>
+                              </span>
+                              <a href="">
+                                <h2>MERCEDES AMG 6.3</h2>
+                              </a>
+                              <div class="line"></div>
+                              <div class="car-info">
+                                Selvage drinking vinegar roof party bitters
+                                beard wolf...
+                              </div>
+                              <div class="car-detail">
+                                <ul>
+                                  <li><i class="fas fa-gas-pump"></i>Diesel</li>
+                                  <li><i class="fa fa-car"></i>Sport</li>
+                                  <li><i class="fas fa-road"></i>13,000</li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="car-card col-md-15 col-sm-6">
+                            <a
+                              href="http://demo.mypsolution.com/wp13/product/mercedes-amg-6-3-15/"
+                              ><img
+                                src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg"
+                                class="attachment-shop_catalog size-shop_catalog wp-post-image"
+                                srcset="
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg         310w,
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured-300x203.jpg 300w
+                                "
+                                sizes="(max-width: 310px) 100vw, 310px"
+                            /></a>
+                            <div class="content">
+                              <span class="pricee">
+                                <span class="price">$52,000</span>
+                              </span>
+                              <a href="">
+                                <h2>MERCEDES AMG 6.3</h2>
+                              </a>
+                              <div class="line"></div>
+                              <div class="car-info">
+                                Selvage drinking vinegar roof party bitters
+                                beard wolf...
+                              </div>
+                              <div class="car-detail">
+                                <ul>
+                                  <li><i class="fas fa-gas-pump"></i>Diesel</li>
+                                  <li><i class="fa fa-car"></i>Sport</li>
+                                  <li><i class="fas fa-road"></i>13,000</li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="car-card col-md-15 col-sm-6">
+                            <a
+                              href="http://demo.mypsolution.com/wp13/product/mercedes-amg-6-3-15/"
+                              ><img
+                                src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg"
+                                class="attachment-shop_catalog size-shop_catalog wp-post-image"
+                                srcset="
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured.jpg         310w,
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-featured-300x203.jpg 300w
+                                "
+                                sizes="(max-width: 310px) 100vw, 310px"
+                            /></a>
+                            <div class="content">
+                              <span class="pricee">
+                                <span class="price">$52,000</span>
+                              </span>
+                              <a href="">
+                                <h2>MERCEDES AMG 6.3</h2>
+                              </a>
+                              <div class="line"></div>
+                              <div class="car-info">
+                                Selvage drinking vinegar roof party bitters
+                                beard wolf...
+                              </div>
+                              <div class="car-detail">
+                                <ul>
+                                  <li><i class="fas fa-gas-pump"></i>Diesel</li>
+                                  <li><i class="fa fa-car"></i>Sport</li>
+                                  <li><i class="fas fa-road"></i>13,000</li>
+                                </ul>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="blogs section">
+              <div class="kc-row-container">
+                <div class="kc-wrap-columns">
+                  <div class="blog-column col-sm-12">
+                    <div>
+                      <div class="header">
+                        <h2>Blog News</h2>
+                        <span
+                          >Vivamus gravida magna massa in cursus mi vehicula at.
+                          Nunc sem quam suscipit</span
+                        >
+                        <div class="dec">
+                          <i class="fa fa-file"></i>
+                        </div>
+                        <div class="line-dec"></div>
+                      </div>
+                      <div class="data">
+                        <div class="left-data col-md-6">
+                          <div>
+                            <a
+                              href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-4-3/"
+                              ><img
+                                width="570"
+                                height="400"
+                                src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-blog-570x400.jpg"
+                                class="attachment-auction_homeblogonly size-auction_homeblogonly wp-post-image"
+                                srcset="
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-blog-570x400.jpg 570w,
+                                  http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-blog-117x83.jpg  117w
+                                "
+                                sizes="(max-width: 570px) 100vw, 570px"
+                            /></a>
+                            <div class="video-content">
+                              <div class="inner-content">
+                                <a
+                                  href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-4-3/"
+                                  ><i class="fa fa-link"></i
+                                ></a>
+                                <div class="title">
+                                  <a
+                                    href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-4-3/"
+                                  >
+                                    <h2>Phasellus hendrerit eros</h2></a
+                                  >
+                                  <ul>
+                                    <li>Dec 16, 2016</li>
+                                    <li>
+                                      Posted by
+                                      <a
+                                        href="http://demo.mypsolution.com/wp13/author/dexthemes/"
+                                        >Dexthemes</a
+                                      >
+                                    </li>
+                                    <li>
+                                      <a
+                                        class="fk_link"
+                                        href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-4-3/#respond"
+                                        >0 Comments</a
+                                      >
+                                    </li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="right-data col-md-6">
+                          <div class="blog-item">
+                            <div class="up-content">
+                              <ul>
+                                <li>Dec 16, 2016</li>
+                                <li>
+                                  Posted by
+                                  <a
+                                    href="http://demo.mypsolution.com/wp13/author/dexthemes/"
+                                    >Dexthemes</a
+                                  >
+                                </li>
+                              </ul>
+                              <div class="title">
+                                <a
+                                  href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-3-3/"
+                                >
+                                  <h2>Phasellus hendrerit eros</h2></a
+                                >
+                              </div>
+                            </div>
+                            <div class="text-content">
+                              Phasellus hendrerit eros eget massa maximus
+                              placerat. Etiam vel est tristique, iaculis orci
+                              rhoncus, faucibus orci. Fusce pharetra augue…
+                            </div>
+                            <a
+                              href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-3-3/"
+                              >READ MORE</a
+                            >
+                          </div>
+                          <div class="blog-item">
+                            <div class="up-content">
+                              <ul>
+                                <li>Dec 16, 2016</li>
+                                <li>
+                                  Posted by
+                                  <a
+                                    href="http://demo.mypsolution.com/wp13/author/dexthemes/"
+                                    >Dexthemes</a
+                                  >
+                                </li>
+                              </ul>
+                              <div class="title">
+                                <a
+                                  href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-3-3/"
+                                >
+                                  <h2>Phasellus hendrerit eros</h2></a
+                                >
+                              </div>
+                            </div>
+                            <div class="text-content">
+                              Phasellus hendrerit eros eget massa maximus
+                              placerat. Etiam vel est tristique, iaculis orci
+                              rhoncus, faucibus orci. Fusce pharetra augue…
+                            </div>
+                            <a
+                              href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-3-3/"
+                              >READ MORE</a
+                            >
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+            <section class="clients section">
+              <div class="kc-row-container">
+                <div class="kc-wrap-columns">
+                  <div class="client-column col-sm-12">
+                    <div>
+                      <div class="brands">
+                        <div class="carusel-outher">
+                          <div class="carusel">
+                            <div class="carusel-item">
+                              <div class="item">
+                                <img
+                                  src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/client-1.png"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+                            <div class="carusel-item">
+                              <div class="item">
+                                <img
+                                  src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/client-1.png"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+                            <div class="carusel-item">
+                              <div class="item">
+                                <img
+                                  src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/client-1.png"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+                            <div class="carusel-item">
+                              <div class="item">
+                                <img
+                                  src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/client-1.png"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+                            <div class="carusel-item">
+                              <div class="item">
+                                <img
+                                  src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/client-1.png"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+                            <div class="carusel-item">
+                              <div class="item">
+                                <img
+                                  src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/client-1.png"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+                            <div class="carusel-item">
+                              <div class="item">
+                                <img
+                                  src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/client-1.png"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+                            <div class="carusel-item">
+                              <div class="item">
+                                <img
+                                  src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/client-1.png"
+                                  alt=""
+                                />
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+          <div class="subscribe">
+            <div class="container">
+              <div class="row">
+                <div class="left-subcribe col-md-8">
+                  <div class="left-content">
+                    <h2>SUBSCRIBE TO THE AUCTION</h2>
+                    <div class="sent-email">
+                      <form class="sent-email-form" method="post">
+                        <div>
+                          <input
+                            type="text"
+                            class="email-input"
+                            placeholder="E-mail Address"
+                          />
+                          <div class="simple-button">
+                            <button type="submit">Subscribe</button>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+                <div class="right-subcribe col-md-4">
+                  <div class="right-content">
+                    <ul>
+                      <li>
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                      </li>
+
+                      <li>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      </li>
+
+                      <li>
+                        <a href="#"><i class="fab fa-linkedin"></i></a>
+                      </li>
+
+                      <li>
+                        <a href="#"><i class="fa fa-rss"></i></a>
+                      </li>
+
+                      <li>
+                        <a href="#"><i class="fab fa-youtube"></i></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <footer>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-3 fcol">
+                  <div class="widget main-logo">
+                    <img
+                      src="http://demo.mypsolution.com/wp13/wp-content/themes/auction/assets/images/logo-2.png"
+                    />
+                    <div class="textwidget">
+                      Maecenas ne mollis orci. Phasell iacu sapie non aliquet ex
+                      euismo ac.
+                    </div>
+                  </div>
+                  <div class="widget about-info">
+                    <ul>
+                      <li>
+                        <i class="fas fa-map-marker-alt"></i> Raver Croft Drive
+                        Knoxville, 37921
+                      </li>
+
+                      <li><i class="fa fa-phone"></i> +55 417-634-7071</li>
+
+                      <li>
+                        <i class="fa fa-envelope-o"></i> contact@auction.com
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="col-md-3 fcol">
+                  <div class="widget featured-links">
+                    <h4>FEATURED LINKS</h4>
+                    <div class="featured-links-container">
+                      <ul id="menu-menu-in-widget-footer" class="menu">
+                        <li>
+                          <a href="http://demo.mypsolution.com/wp13/about-us/"
+                            >About us</a
+                          >
+                        </li>
+                        <li>
+                          <a href="http://demo.mypsolution.com/wp13/services/"
+                            >Services</a
+                          >
+                        </li>
+                        <li>
+                          <a href="http://demo.mypsolution.com/wp13/contact-us/"
+                            >Meet the team</a
+                          >
+                        </li>
+                        <li>
+                          <a
+                            href="http://demo.mypsolution.com/wp13/"
+                            aria-current="page"
+                            >Privacy Policy</a
+                          >
+                        </li>
+                        <li>
+                          <a href="http://demo.mypsolution.com/wp13/blog/"
+                            >Company News</a
+                          >
+                        </li>
+                        <li>
+                          <a href="http://demo.mypsolution.com/wp13/shop/"
+                            >Shop</a
+                          >
+                        </li>
+                        <li>
+                          <a
+                            href="http://demo.mypsolution.com/wp13/product/mercedes-amg-6-3-15/"
+                            >New Vehicle</a
+                          >
+                        </li>
+                        <li>
+                          <a
+                            href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-4-3/"
+                            >Features</a
+                          >
+                        </li>
+                        <li>
+                          <a
+                            href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-3-3/"
+                            >Promotion</a
+                          >
+                        </li>
+                        <li>
+                          <a href="http://demo.mypsolution.com/wp13/contact-us/"
+                            >Contact</a
+                          >
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3 fcol">
+                  <div class="widget featured-links recent-post">
+                    <h4>Recent Post</h4>
+                    <div class="latest-item">
+                      <img
+                        src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-blog-150x150.jpg"
+                      />
+                      <h6>
+                        <a
+                          href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-4-3/"
+                          >Phasellus hendrerit eros</a
+                        >
+                      </h6>
+                      <ul>
+                        <li>Dec 16, 2016</li>
+                        <li>0 comments</li>
+                      </ul>
+                    </div>
+                    <div class="latest-item">
+                      <img
+                        src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/01-blog-150x150.jpg"
+                      />
+                      <h6>
+                        <a
+                          href="http://demo.mypsolution.com/wp13/phasellus-hendrerit-eros-4-3/"
+                          >Phasellus hendrerit eros</a
+                        >
+                      </h6>
+                      <ul>
+                        <li>Dec 16, 2016</li>
+                        <li>0 comments</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3 fcol">
+                  <div class="widget featured-links gallery">
+                    <h4>GALLERY</h4>
+                    <div class="gallery-item">
+                      <a
+                        href="http://demo.mypsolution.com/wp13/portfolio/portfolio-item-8/"
+                        ><img
+                          src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/05-blog-150x150.jpg"
+                      /></a>
+                    </div>
+                    <div class="gallery-item">
+                      <a
+                        href="http://demo.mypsolution.com/wp13/portfolio/portfolio-item-7/"
+                        ><img
+                          src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/07-blog-150x150.jpg"
+                      /></a>
+                    </div>
+                    <div class="gallery-item">
+                      <a
+                        href="http://demo.mypsolution.com/wp13/portfolio/portfolio-item-6/"
+                        ><img
+                          src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/08-blog-150x150.jpg"
+                      /></a>
+                    </div>
+                    <div class="gallery-item">
+                      <a
+                        href="http://demo.mypsolution.com/wp13/portfolio/portfolio-item-8/"
+                        ><img
+                          src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/05-blog-150x150.jpg"
+                      /></a>
+                    </div>
+                    <div class="gallery-item">
+                      <a
+                        href="http://demo.mypsolution.com/wp13/portfolio/portfolio-item-7/"
+                        ><img
+                          src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/07-blog-150x150.jpg"
+                      /></a>
+                    </div>
+                    <div class="gallery-item">
+                      <a
+                        href="http://demo.mypsolution.com/wp13/portfolio/portfolio-item-6/"
+                        ><img
+                          src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/08-blog-150x150.jpg"
+                      /></a>
+                    </div>
+                    <div class="gallery-item">
+                      <a
+                        href="http://demo.mypsolution.com/wp13/portfolio/portfolio-item-8/"
+                        ><img
+                          src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/05-blog-150x150.jpg"
+                      /></a>
+                    </div>
+                    <div class="gallery-item">
+                      <a
+                        href="http://demo.mypsolution.com/wp13/portfolio/portfolio-item-7/"
+                        ><img
+                          src="http://demo.mypsolution.com/wp13/wp-content/uploads/2016/12/07-blog-150x150.jpg"
+                      /></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </footer>
+          <div class="sub-footer">
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6 col-sm-12">
+                  <p>
+                    Copyrights 2023 <span> Auction</span>. Developed by Nijat
+                  </p>
+                </div>
+                <div class="col-md-6 col-sm-12">
+                  <ul>
+                    <li>
+                      <a
+                        href="http://demo.mypsolution.com/wp13/"
+                        aria-current="page"
+                        >Home</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="http://demo.mypsolution.com/wp13/"
+                        aria-current="page"
+                        >Blog</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="http://demo.mypsolution.com/wp13/"
+                        aria-current="page"
+                        >Contact</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="http://demo.mypsolution.com/wp13/"
+                        aria-current="page"
+                        >Services</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="http://demo.mypsolution.com/wp13/"
+                        aria-current="page"
+                        >Shop</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        href="http://demo.mypsolution.com/wp13/"
+                        aria-current="page"
+                        >About Us</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a href="#" class="to-top-button"><i class="fa fa-angle-up"></i></a>
+        </div>
+      </div>
+    </div>
+    <nav class="sidebar-menu">
+      <div class="sidebar">
+        <div class="content">
+          <nav class="menu">
+            <ul>
+              <li>
+                <img src="../Images/nijat.jpg" alt="" />
+                <div>
+                  <span>Nijat Soltanov</span>
+                  <span>nicatsoltanli03@gmail.com</span>
+                </div>
+              </li>
+              <li class="searchNavbar">
+                <input type="text" placeholder="Search..." />
+                <i class="fa fa-search"></i>
+              </li>
+              <li>
+                <i class="fa fa-home"></i>
+                <a title="Home" href="./homepage.html">Home</a>
+              </li>
+              <li>
+                <i class="fa fa-share"></i>
+                <a href="./about.html">About</a>
+              </li>
+              <li>
+                <i class="fa fa-wrench"></i>
+                <a title="Home" href="./service.html">Services</a>
+              </li>
+              <li>
+                <i class="fa fa-car"></i>
+                <a title="Home" href="./shop.html">Shop</a>
+              </li>
+              <li>
+                <i class="fa fa-id-card"></i>
+                <a title="Home" href="./blog.html">Blogs</a>
+              </li>
+              <li>
+                <i class="fa fa-phone"></i>
+                <a title="Home" href="./contact.html">Contact Us</a>
+              </li>
+            </ul>
+            <ul>
+              <li>
+                <i class="fa fa-sign-out"></i>
+                <a href="#">Log out</a>
+              </li>
+              <li>
+                <button>Login</button>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </nav>
+  </body>
+</html>
+<script src="../JavaScript/home.js"></script>
+<script src="../JavaScript/sidebar.js"></script>
